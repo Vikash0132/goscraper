@@ -6,7 +6,6 @@ import (
 	"net/http"
 
 	"goscraper/src/handlers"
-	"goscraper/src/types"
 )
 
 // ✅ Vercel requires an exported function
